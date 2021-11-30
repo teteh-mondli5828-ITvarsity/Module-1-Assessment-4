@@ -1,0 +1,14 @@
+table{
+     font-family : Helvetica, fantasy;
+     border-collapse: collapse;
+     border-width   : 3px;
+     border-style   : solid;
+     border-color   : aqua;
+}
+
+th {
+     font-weight: 750;
+    background-color: #2695F6;
+    color           : black;
+}
+
